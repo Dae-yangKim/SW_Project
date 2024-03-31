@@ -8,7 +8,7 @@
 - [Project 주제](#subject)
 - [팀원](#team)
 - [System Architecture](#sa)
-
+- [참고 사진](#picture)
 
 # SW Project
 소프트웨어 프로젝트에서 진행한 <font size="3"><b>코디 추천 시스템을 탑재한 웹사이트 개발 Project</b></font> 입니다.
@@ -65,7 +65,7 @@ npm run start
 
 웹 사이트를 배포하지 않았기 때문에 , React로 로컬 서버를 실행시켜서 웹사이트를 방문하실 수 있습니다.
 
-## 참고 사진
+<a id='picture'>## 참고 사진</a>
 
 <img src="readme_data/menu.png" width=300 height=500> 
 
