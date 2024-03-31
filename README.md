@@ -65,7 +65,7 @@ npm run start
 
 웹 사이트를 배포하지 않았기 때문에 , React로 로컬 서버를 실행시켜서 웹사이트를 방문하실 수 있습니다.
 
-<a id='picture'>## 참고 사진</a>
+## <a id='picture'>참고 사진</a>
 
 <img src="readme_data/menu.png" width=300 height=500> 
 
