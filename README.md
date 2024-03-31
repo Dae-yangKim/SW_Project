@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/sw project.png" width="400" height="400">
+    <img src="readme_data/sw project.png" width="400" height="400">
 </p>
 <br>
 
@@ -26,7 +26,7 @@
 ## <a id='team'>팀원</a>
 |김대양|태정수|아타케 마사아키|아베 다카노부|
 |:---:|:---:|:---:|:---:|
-|<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/me.png" width=200 height = 200>|<img src='/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/jungsu.png' width = 200 height=200>|<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/masaaki.png" width=200 height = 200>|<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/takanobu.png" width=200 height=200>|
+|<img src="/readme_data/me.png" width=200 height = 200>|<img src='readme_data/jungsu.png' width = 200 height=200>|<img src="readme_data/masaaki.png" width=200 height = 200>|<img src="readme_data/takanobu.png" width=200 height=200>|
 |[Dae-yangKim](https://github.com/Dae-yangKim)|[taejungsu](https://github.com/taejungsu)|[MasaakiAtake](https://github.com/MasaakiAtake)|[ABETAKANOBU](https://github.com/ABETAKANOBU)|
 |AI , DB 개발| 백엔드 기능 구현 및 서버 연결 | 프론트엔드 개발 및 UI 설계 , 구현 | 프론트엔드 개발 및 디자인 |
 
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy%&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas%&logoColor=white">
 
 ## <a id='sa'>System Architecture</a>
-<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/System Architecture.png" width=800 height=500>
+<img src="readme_data/System Architecture.png" width=800 height=500>
 
 ## 📅 개발 기간
 | 개발 | 기간 |
@@ -67,7 +67,7 @@ npm run start
 
 ## 참고 사진
 
-<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/menu.png" width=300 height=500> 
+<img src="readme_data/menu.png" width=300 height=500> 
 
 <font size=3>웹 사이트의 메뉴에서는 이렇게 4가지가 있습니다.</font>
 
@@ -80,4 +80,4 @@ npm run start
 
 | 사용법 페이지 | 프로그램 소개 페이지 | 실행 페이지 |
 | :---: | :---: | :---: |
-|<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/introduction.png" width=400 height=400>|<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/program_intro.png" width=400 height=400>|<img src="/Users/kengohirano/Desktop/git_sw_project/SW_Project/readme_data/execution.png" width=400 height=400>
+|<img src="readme_data/introduction.png" width=400 height=400>|<img src="readme_data/program_intro.png" width=400 height=400>|<img src="readme_data/execution.png" width=400 height=400>
